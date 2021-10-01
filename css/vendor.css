@@ -20,7 +20,7 @@
  *   @author ocodia
  * ------------------------------------------------------------------- */
 code[class*="language-"], pre[class*="language-"] {
-    color: #f8f8f2;
+    color: #000000;
     background: none;
     text-shadow: 0 1px rgba(0, 0, 0, 0.3);
     font-family: var(--font-mono);
